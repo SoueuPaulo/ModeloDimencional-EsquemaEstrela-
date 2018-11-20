@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Orcamento_Carga", "Orcamento_Carga\Orcamento_Carga.dtproj", "{CC5B2160-E48D-481D-BB7E-5E282CA26384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5B2160-E48D-481D-BB7E-5E282CA26384}.Development|Default.ActiveCfg = Development
+		{CC5B2160-E48D-481D-BB7E-5E282CA26384}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FC9EA6-2450-42D0-8426-3E6C3CF6E0AB}
+	EndGlobalSection
+EndGlobal
